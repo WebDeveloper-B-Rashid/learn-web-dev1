@@ -1,0 +1,9 @@
+
+
+	Project Features | Database Design | Creating Project Structure | 
+
+
+	18. Model Creation for Brand | Category | Product | Product Details |
+				   Slider | User | Profile | Wish | Cart | 
+				   Review Model Creation for Invoice |
+				   Invoice Product | Payment
